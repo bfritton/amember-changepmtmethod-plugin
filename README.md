@@ -1,0 +1,4 @@
+amember-changepmtmethod-plugin
+==============================
+
+This aMember module adds an extra link to the list of recurring invoices next to "Next Rebill Date" and "Stop Recurring" links which shows the invoice's current payment method. Clicking on the payment method name will bring up a dialog box that allows you to type in the identifier of another payment system plugin to swith future payments for the invoice to. For example, if you have both Authorize.net CIM credit card and Offline payment methods, you can switch a user from being an offline-paying customer to being an automatically rebilling credit card customer, or the other way around.  Older payments that are listed for the invoice will still list the payment system and receipt ID's, etc. of the old payment system. When the next future rebill date comes due, you'll see the payment on the new payment system listed. This makes it easy to see when the payment method was changed.
