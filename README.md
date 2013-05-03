@@ -1,6 +1,7 @@
 Simple module for allowing aMember admins to change an invoices payment method (for future payments)
-author:  Brian Fritton <bfritton@gmail.com>
-copyright: GNU General Public License, version 3 (GPL-3.0)
+
+* @author:  Brian Fritton <bfritton@gmail.com>
+* @copyright: GNU General Public License, version 3 (GPL-3.0)
 
 Description
 ===============
