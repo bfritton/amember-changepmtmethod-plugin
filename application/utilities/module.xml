@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ * @author		Brian Fritton <bfritton@gmail.com>
+ * @copyright	GNU General Public License, version 3 (GPL-3.0)
+ */
+-->
+<module>
+    <id>utilities</id>
+    <name>Utilities</name>
+    <desc>A utilities module to make all other modules interact better together</desc>
+    <version>1.0</version>
+</module>
